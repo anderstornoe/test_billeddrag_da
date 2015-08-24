@@ -234,3 +234,7 @@ function reset_switch_words() {
 
      });
  };
+
+
+
+ // THAN's sejeste kommentar til dato :-)
